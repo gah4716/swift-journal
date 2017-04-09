@@ -1,0 +1,28 @@
+.navbar-right {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.jumbotron {
+     background-image: asset-url('journal.jpeg');
+     background-size: cover;
+     padding-top: 25px;
+     padding-bottom: 25px;
+     margin-left: 10px;
+     margin-right: 10px;
+     height: 400px;
+     font-family: 'Helvetica Neue' !important;
+}
+
+.no-side-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.no-left-padding {
+    padding-left: 0 !important;
+}
+
+.no-right-padding {
+    padding-right: 0 !important;
+}
